@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=Twitch&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAi-412991?style=flat-square&logo=OpenAi&logoColor=white">
+  
 
 </div><br>
 </div>
