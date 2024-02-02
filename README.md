@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Velog&logoColor=white"> 
     </a>
   
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
+[![Velog's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://velog.io/@kimbab_1004/posts)
 </div><br>
 
  
