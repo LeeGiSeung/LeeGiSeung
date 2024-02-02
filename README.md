@@ -12,7 +12,9 @@
         <a href="https://velog.io/@kimbab_1004/posts"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Velog&logoColor=white">
     </a>
 </div><br>
-      
+
+
+## 💻 Solved.ac log 💻
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimbab1004)](https://solved.ac/kimbab1004)
 
 
