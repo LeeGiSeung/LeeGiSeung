@@ -11,7 +11,7 @@
         <a href="https://velog.io/@kimbab_1004/posts"><img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Velog&logoColor=white"> 
     </a>
   
-https://velog.io/@kimbab_1004/posts
+Click
 </div><br>
 
  
