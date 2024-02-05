@@ -4,6 +4,7 @@
 ---
 <br>
 
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeGiSeung&show_icons=true&theme=dark)
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
