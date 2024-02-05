@@ -4,9 +4,9 @@
 ---
 <br>
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeGiSeung&show_icons=true&theme=dark)
+![LeeGiSeung's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeGiSeung&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGiSeung&layout=compact&theme=dark)
+
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
