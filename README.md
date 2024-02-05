@@ -39,9 +39,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=Twitch&logoColor=white">
   <img src="https://img.shields.io/badge/OpenAi-412991?style=flat-square&logo=OpenAi&logoColor=white">
-  
-## 💖 Love 💖
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=FF0000&logoColor=white">
-<img src="https://img.shields.io/badge/Burger King-D62300?style=flat-square&logo=D62300&logoColor=white">
+
 </div><br>
 </div>
