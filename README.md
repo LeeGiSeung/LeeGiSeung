@@ -6,8 +6,6 @@
 
 ![LeeGiSeung's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeGiSeung&show_icons=true&theme=dark)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=[LeeGiSeung])](https://velog.io/@kimbab_1004/posts)
-
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
