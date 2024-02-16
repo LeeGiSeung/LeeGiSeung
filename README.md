@@ -6,6 +6,8 @@
 
 ![LeeGiSeung's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeGiSeung&show_icons=true&theme=dark)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
