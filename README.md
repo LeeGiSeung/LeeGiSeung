@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=Twitch&logoColor=white">
   <img src="https://img.shields.io/badge/OpenAi-412991?style=flat-square&logo=OpenAi&logoColor=white">
+  <img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=Perforce&logoColor=white">
 
 </div><br>
 </div>
