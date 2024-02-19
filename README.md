@@ -26,20 +26,19 @@
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <br>
-    <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAi-412991?style=flat-square&logo=OpenAi&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=Twitch&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenAi-412991?style=flat-square&logo=OpenAi&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white">
+  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white">
   <img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=Perforce&logoColor=white">
 
 </div><br>
