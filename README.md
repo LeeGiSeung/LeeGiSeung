@@ -75,13 +75,6 @@ C++                      2 repos             ██████████░�
 Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/LeeGiSeung/LeeGiSeung/main/assets/bar_graph.png)
-
-
  Last Updated on 26/02/2024 08:57:06 UTC
 <!--END_SECTION:waka-->
 
