@@ -19,9 +19,6 @@
       
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenAi-412991?style=flat-square&logo=OpenAi&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white">
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white">
   <br>
