@@ -12,12 +12,5 @@
 ## ⌨️ Solved.ac ⌨️
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimbab1004)](https://solved.ac/kimbab1004/)
 
-
-      
-## 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:row;">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white">
-  <br>
-
 </div><br>
 </div>
